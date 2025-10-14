@@ -1,0 +1,1 @@
+ /Users/apple/business_card_app/.dart_tool/flutter_build/59febb5cc40c538354849eec95c4a065/native_assets.json: 
